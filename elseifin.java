@@ -6,6 +6,8 @@ public class elseifin {
         int a  = sc.nextInt();
         System.out.println("Enter b");
         int b = sc.nextInt();
+        // Conditional Statement - else If
+        
         // if(a==b){
         //     System.out.println("a is equal to b");
         // }else{
