@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class ifelsein {
     public static void main(String[] args) {
-        //Conditional Statements
+        //Conditional Statements - If else
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter age");
         int age = sc.nextInt();
